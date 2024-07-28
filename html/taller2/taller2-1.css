@@ -82,7 +82,7 @@ main {
 }
 
 footer {
-    background-image: url(../img2/pag1/marmolBlack.png);
+    background-image: url(./img2/pag1/marmolBlack.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 60%;
