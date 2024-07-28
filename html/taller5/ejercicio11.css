@@ -18,7 +18,7 @@
     grid-column: 1/2;
     grid-row: 1/2;
     height: 300px;
-    background-image: url(/html/taller5/img5/autos.jpg);
+    background-image: url(./taller5/img5/autos.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
@@ -35,7 +35,7 @@
     height: 300px;
     grid-column: 2/3;
     grid-row: 1/2;
-    background-image: url(/html/taller5/img5/colonia.jpg);
+    background-image: url(./taller5/img5/colonia.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
@@ -45,7 +45,7 @@
     height: 300px;
     grid-column: 3/4;
     grid-row: 1/2;
-    background-image: url(/html/taller5/img5/ciudad.jpg);
+    background-image: url(./taller5/img5/ciudad.jpg);
     background-size: cover; 
     background-position: center ;
     border-radius: 5px;
@@ -55,7 +55,7 @@
     grid-column: 1/2;
     grid-row: 2/3;
     height: 300px;
-    background-image: url(/html/taller5/img5/mcdonalds.jpg);
+    background-image: url(./taller5/img5/mcdonalds.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
@@ -65,7 +65,7 @@
     height: 300px;
     grid-column: 2/3;
     grid-row: 2/3;
-    background-image: url(/html/taller5/img5/finca.jpg);
+    background-image: url(./taller5/img5/finca.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
@@ -75,7 +75,7 @@
     height: 300px;
     grid-column: 3/4;
     grid-row: 2/3;
-    background-image: url(/html/taller5/img5/satelite.jpg);
+    background-image: url(./taller5/img5/satelite.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
