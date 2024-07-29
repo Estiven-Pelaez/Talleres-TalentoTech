@@ -35,7 +35,7 @@
     height: 300px;
     grid-column: 2/3;
     grid-row: 1/2;
-    background-image: url(./taller5/img5/colonia.jpg);
+    background-image: url(./img5/colonia.jpg);
     background-size: cover;
     background-position: center ;
     border-radius: 5px;
@@ -45,7 +45,7 @@
     height: 300px;
     grid-column: 3/4;
     grid-row: 1/2;
-    background-image: url(./taller5/img5/ciudad.jpg);
+    background-image: url(../img5/ciudad.jpg);
     background-size: cover; 
     background-position: center ;
     border-radius: 5px;
