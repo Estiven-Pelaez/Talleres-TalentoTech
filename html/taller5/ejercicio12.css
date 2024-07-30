@@ -11,7 +11,7 @@ body {
 .header13 {
     width: 100%;
     height: 500px;
-    background-image: url(../img5/img-12/banner.jpg);
+    background-image: url(../html/taller5/img5/img-12/banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
@@ -151,7 +151,7 @@ main {
 .banner2 {
     width: 100%;
     height: 150px;
-    background-image: url(../img5/img-12/banner1.jpg);
+    background-image: url(../html/taller5/img5/img-12/banner1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 250px;
